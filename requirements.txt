@@ -1,0 +1,9 @@
+streamlit
+chromadb
+sentence-transformers
+rank-bm25
+groq
+python-dotenv
+pypdf
+flask
+flask-cors

@@ -1,0 +1,532 @@
+NORTHSTAR SYSTEMS PVT. LTD. — OFFICE OPERATIONS GUIDE
+Document version: 3.0
+Effective date: 1 September 2026
+Document owner: Workplace Operations
+
+DOCUMENT PURPOSE
+
+This guide provides practical instructions for employees, contractors, and approved visitors using Northstar Systems offices. It explains the standard procedures for office access, visitors, workspaces, meeting rooms, shared facilities, technology, documents, safety, security, maintenance, and workplace support.
+
+The guide is intended to provide a common set of office practices across company locations. Individual buildings may have additional requirements. Where a building-specific safety, security, or access requirement applies, employees should follow the applicable local instruction.
+
+OFFICE HOURS AND GENERAL ACCESS
+
+Standard office access is available from 8:00 a.m. to 8:00 p.m. on normal business days. Access outside these hours may require prior authorization depending on the building, employee role, and local security arrangements.
+
+Employees should use their assigned access card or approved mobile credential. Access credentials are personal and must not be shared. Employees should not allow unknown individuals to enter controlled areas by following them through secured doors.
+
+Employees working outside normal hours should confirm that their access permissions cover the required period. Weekend and public-holiday access may be restricted.
+
+BUILDING ACCESS
+
+Employee Access Cards
+
+Employees must use their assigned access card or approved mobile credential to enter controlled areas. Access cards must not be lent to another person.
+
+Lost, stolen, or damaged access cards should be reported immediately to Workplace Operations or Security. Employees should not attempt to repair access cards or bypass access controls.
+
+Temporary Access
+
+Temporary access for contractors, guests, or other approved personnel should be requested through the designated workplace system. Requests should normally include the visitor's name, organization, host, expected arrival time, and required access area.
+
+Access Failures
+
+If an access card does not work, employees should contact reception, Security, or Workplace Operations. Employees must not force doors, prop open restricted entrances, or borrow another employee's credential.
+
+Restricted Areas
+
+Server rooms, laboratories, storage rooms, security areas, and other controlled spaces may require additional authorization. Employees and visitors should enter restricted areas only when authorized.
+
+VISITORS AND CONTRACTORS
+
+Visitor Registration
+
+All visitors must register through reception or the approved visitor-management system. Hosts are responsible for meeting visitors and ensuring that they understand relevant office requirements.
+
+Visitor Badges
+
+Visitors may be required to wear a temporary visitor badge while inside controlled areas. Badges should be returned to reception or the designated location when the visit ends.
+
+Host Responsibilities
+
+Employees hosting visitors should remain responsible for their visitors while they are in controlled areas. Visitors should not be allowed to enter restricted areas without authorization.
+
+Visitor Restrictions
+
+Visitors may not photograph restricted areas, access employee workstations without permission, or connect unauthorized devices to company networks.
+
+Contractors
+
+Contractors performing maintenance or other work may require identification checks, safety induction, access approval, or supervision. Employees should not move contractor equipment or enter barricaded work areas without authorization.
+
+WORKSTATIONS AND SHARED DESKS
+
+Clean Desk
+
+Employees using shared desks should leave the workstation clean and free of confidential documents. Food, waste, and unnecessary personal belongings should be removed after use.
+
+Computer Security
+
+Employees should lock their computers whenever leaving a workstation unattended. Confidential information should not remain visible on unattended screens.
+
+Shared Equipment
+
+Monitors, docking stations, keyboards, adapters, and other shared equipment should be returned to their normal location after use.
+
+Personal Belongings
+
+Personal belongings should not be used to reserve shared desks for other employees. Designated lockers or storage areas should be used where available.
+
+End-of-Day Security
+
+Before leaving the office, employees should lock their computers, secure confidential documents, remove food and waste, and return shared equipment.
+
+MEETING ROOMS
+
+Booking Rooms
+
+Meeting rooms should be booked through the company calendar or approved room-booking system. Bookings should include an appropriate title and expected duration.
+
+Room Availability
+
+Employees should release rooms promptly when meetings are cancelled. Teams should finish on time when another booking follows.
+
+Room Selection
+
+Large rooms should not be reserved for small meetings when a smaller suitable room is available. Meeting rooms must not be used beyond their posted capacity.
+
+Meeting Close-Out
+
+After a meeting, employees should erase confidential information from whiteboards, collect documents, disconnect temporary equipment, and return furniture to its normal arrangement.
+
+Video Conferencing
+
+Employees should use approved meeting-room cameras, microphones, displays, and conferencing equipment. Technology problems should be reported to IT with the room number and equipment details.
+
+Confidential Meetings
+
+Meetings involving confidential information should be held in an appropriate space. Employees should take reasonable steps to prevent unauthorized people from viewing screens or overhearing discussions.
+
+PANTRY AND COMMON AREAS
+
+General Use
+
+Pantry and common areas are shared facilities and should be left clean for the next user. Employees should clean spills promptly and place waste in the appropriate containers.
+
+Refrigerators
+
+Food placed in shared refrigerators should be labelled with the owner's name and date where required. Expired or abandoned food may be removed during scheduled clean-outs.
+
+Appliances
+
+Microwaves, coffee machines, kettles, refrigerators, and other shared appliances should be used according to posted instructions. Damaged appliances should not be used.
+
+Food Etiquette
+
+Employees should avoid leaving food or drinks at shared workstations overnight. Strong-smelling food should be consumed in designated areas where local restrictions apply.
+
+Shared Areas
+
+Tables, chairs, counters, and other common resources should be returned to their normal condition after use.
+
+PRINTING AND DOCUMENTS
+
+Secure Printing
+
+Secure printing should be used for confidential or sensitive information where available. Employees should collect printed documents promptly.
+
+Confidential Disposal
+
+Confidential documents must not be placed in ordinary recycling bins. Sensitive material should be disposed of using designated confidential-waste containers.
+
+Large Print Jobs
+
+Large print jobs should use approved shared printers or print services where available. Employees should avoid unnecessary printing when digital review is sufficient.
+
+Documents in Shared Areas
+
+Employees should not leave confidential documents on printers, meeting tables, shared desks, or other common surfaces.
+
+IT AND NETWORK USE
+
+Approved Networks
+
+Company devices should connect only to approved wired or wireless networks. Employees should follow IT security requirements when using external or public networks.
+
+Guest Networks
+
+Guest networks should be used by visitors where provided. Employee network credentials must not be shared with guests.
+
+IT Support
+
+Employees should contact the IT service desk for account lockouts, device problems, approved software requests, VPN issues, network problems, and conference-room technology issues.
+
+Unauthorized Changes
+
+Employees must not attempt to bypass administrative controls, install unauthorized network hardware, disable security software, or circumvent authentication systems.
+
+Security Incidents
+
+Suspected phishing, malware, credential compromise, lost company devices, or accidental disclosure of company information should be reported immediately through the security incident process.
+
+REMOVABLE MEDIA AND DEVICES
+
+Unknown USB devices or other removable media must not be connected to company computers. Suspicious devices should be reported to IT or Security.
+
+Company laptops, phones, tablets, monitors, and other equipment should be handled carefully. Damaged cables, chargers, screens, or accessories should be reported rather than repaired without authorization.
+
+Lost or stolen company devices should be reported immediately. Employees should provide the device type and last known location when known.
+
+FACILITIES AND MAINTENANCE
+
+Reporting Defects
+
+Employees should report broken furniture, lighting problems, air-conditioning issues, plumbing problems, spills, pest concerns, and other facility defects through the workplace service channel.
+
+Repairs
+
+Employees must not attempt electrical, plumbing, structural, or building-system repairs themselves. Facilities staff or approved vendors should handle maintenance work.
+
+Maintenance Areas
+
+Employees should follow temporary signs and instructions when areas are closed for maintenance. Barriers and warning signs must not be removed.
+
+Furniture
+
+Unstable chairs, damaged desks, broken wheels, exposed sharp edges, or other furniture hazards should be reported promptly.
+
+OFFICE SUPPLIES
+
+Common supplies are stored in designated locations. Employees should take reasonable quantities and report low-stock items through the office request process.
+
+Specialized equipment or higher-cost supplies may require manager, IT, procurement, or facilities approval.
+
+Employees should avoid storing excessive quantities of shared supplies at individual desks when the item is available through common inventory.
+
+DELIVERIES AND COURIERS
+
+Business deliveries should include the recipient's name or department and use the designated receiving area where available.
+
+Routine personal deliveries should follow building reception rules and should not disrupt workplace operations.
+
+Employees should not permit unknown delivery personnel to enter restricted office areas. Reception, Security, or Facilities should coordinate access where required.
+
+Packages should be collected promptly and should not block corridors, fire exits, reception areas, or other shared spaces.
+
+NOISE AND SHARED-SPACE ETIQUETTE
+
+Open Work Areas
+
+Calls and conversations should be kept at a reasonable volume in open work areas. Phone booths or meeting rooms should be used for lengthy discussions when available.
+
+Shared Resources
+
+Employees should return chairs, tables, whiteboards, and other shared resources to their normal configuration after use.
+
+Phone Booths
+
+Phone booths and focus rooms should be used for their intended purpose. Employees should follow local booking or time limits so that shared spaces remain available.
+
+Accessibility
+
+Accessible routes, workstations, restrooms, elevators, and other accessibility facilities should remain unobstructed.
+
+Requests for workplace accommodations or accessibility support should be directed to HR or Workplace Operations through the approved confidential process.
+
+HEALTH, SAFETY, AND EMERGENCIES
+
+Emergency Routes
+
+Corridors, stairways, fire exits, and emergency equipment must remain unobstructed. Boxes, furniture, bicycles, and personal belongings must not be stored in emergency routes.
+
+Evacuation
+
+During an evacuation, employees should follow instructions from floor wardens, Security, building management, or emergency personnel. Employees should use the designated exit route and proceed to the assigned assembly point.
+
+Employees must not re-enter an evacuated area until authorized.
+
+Medical Emergencies
+
+For a serious medical emergency, employees should contact local emergency services according to the building procedure and notify Workplace Operations or Security.
+
+When reporting a medical emergency, provide the office location, floor, room or area, nature of the incident, and known immediate hazards when possible.
+
+Incident Reporting
+
+Workplace accidents, injuries, near misses, and material safety concerns should be reported promptly.
+
+FIRE SAFETY
+
+Employees should know the location of nearby fire exits and emergency equipment. Fire exits must remain clear at all times.
+
+Fire extinguishers are provided for appropriate emergency use by trained or otherwise capable individuals. Personal safety comes first.
+
+Employees must never block fire doors, disable alarms, or place objects in front of emergency equipment.
+
+SECURITY INCIDENTS
+
+Suspicious Activity
+
+Employees should report suspicious persons, forced doors, lost access cards, unauthorized visitors, or suspected theft to Security or Workplace Operations.
+
+Employees should not confront a person when doing so could create a safety risk. Reports should provide factual information such as location, time, description, and observed activity.
+
+Lost Property
+
+Found property should be handed to reception or Security rather than kept at an employee workstation.
+
+Physical Security
+
+Employees should keep controlled doors closed and should not prop them open for convenience. Security cameras, access readers, alarms, and other security equipment must not be tampered with.
+
+INFORMATION SECURITY IN THE OFFICE
+
+Screen Privacy
+
+Employees should position screens appropriately when handling confidential information in open areas.
+
+Confidential Conversations
+
+Employees should consider the location and audience when discussing confidential business, employee, customer, financial, or technical information.
+
+Visitor Exposure
+
+Visitors should not be able to freely view confidential screens, printed records, whiteboards, or unattended devices.
+
+Records
+
+Records that require retention should be stored according to the approved company records process. Unnecessary copies should not be kept at individual workstations.
+
+ACCESSIBILITY AND WORKPLACE SUPPORT
+
+Accessible pathways and facilities should remain clear and usable.
+
+Employees should not move accessibility equipment or use designated accessibility facilities for storage.
+
+Workplace accommodation requests should be directed to HR or Workplace Operations through the appropriate confidential process.
+
+If an accessible facility becomes unavailable, employees should report the problem promptly and follow the temporary alternative communicated by Workplace Operations.
+
+SUSTAINABILITY AND WASTE
+
+Waste Sorting
+
+Employees should use recycling and waste-sorting stations according to local signage.
+
+Energy and Water
+
+Employees should avoid unnecessary consumption of electricity, water, paper, and disposable supplies. Lights and equipment should be switched off where appropriate.
+
+Electronic Waste
+
+Electronic waste, batteries, cables, and other special waste must be placed in designated collection points rather than ordinary bins.
+
+CONFIDENTIAL WASTE
+
+Confidential documents must be placed in designated confidential-waste containers.
+
+Storage devices and equipment containing company information should be handled through the approved IT disposal process.
+
+Employees should not place confidential records in ordinary recycling or general waste.
+
+OFFICE EVENTS
+
+Event Planning
+
+Employees organizing office events should coordinate with Workplace Operations when an event requires additional furniture, catering, security, cleaning, special access, or building approval.
+
+Attendance
+
+Event organizers should communicate expected attendance, timing, and room requirements to the responsible workplace team.
+
+After-Hours Events
+
+Events outside normal office hours may require advance approval, security coordination, and special access arrangements.
+
+Close-Out
+
+Organizers are responsible for returning shared spaces to their standard configuration and removing waste and temporary equipment.
+
+AFTER-HOURS AND WEEKEND WORK
+
+Employees working outside normal access hours should have the required authorization.
+
+Employees working alone should follow any applicable lone-working or building security requirements.
+
+During after-hours periods, employees should not admit unauthorized individuals into controlled areas.
+
+Before leaving, employees should secure workstations, confidential material, and shared equipment.
+
+BUSINESS CONTINUITY
+
+During major building or workplace disruptions, employees should follow official company instructions concerning office access, temporary work locations, remote work, or other continuity measures.
+
+Employees should not enter restricted operational areas during a disruption unless authorized.
+
+After a disruption, unresolved facilities, technology, or safety issues should be reported through the appropriate service channel.
+
+OFFICE TRAVEL AND OTHER LOCATIONS
+
+Employees visiting another company office should follow that location's local access, visitor, safety, and facilities procedures.
+
+Company equipment transported between offices should be protected from damage and kept under appropriate control.
+
+Confidential documents and devices should remain secure while travelling between office locations.
+
+LOCAL OFFICE REQUIREMENTS
+
+Individual offices may have additional building-specific rules covering access, parking, emergency assembly points, security, deliveries, and facilities.
+
+Where local building requirements differ from this guide, employees should follow the applicable local requirement and contact Workplace Operations if clarification is needed.
+
+CONTACTS AND ESCALATION
+
+IT Service Desk
+
+Contact IT for computers, accounts, approved software, network access, VPN, conference-room technology, and device problems.
+
+Workplace Operations
+
+Contact Workplace Operations for access cards, facilities, meeting rooms, cleaning, furniture, office supplies, workplace services, and building-related requests.
+
+Security
+
+Contact Security for urgent access-control concerns, suspicious activity, theft, lost credentials, unauthorized visitors, and security emergencies.
+
+HR
+
+Contact HR for employee-specific workplace accommodations, conduct concerns, leave-related workplace questions, and matters requiring confidential handling.
+
+Reception
+
+Contact reception for visitor registration, visitor badges, general front-desk assistance, and routing of guests.
+
+SERVICE REQUEST PRIORITY
+
+Emergency Issues
+
+Active emergencies, serious injuries, fire alarms, and immediate safety hazards should be handled through emergency procedures rather than routine service requests.
+
+Security Issues
+
+Unauthorized access, suspected theft, forced entry, suspicious activity, or compromised access credentials should be escalated to Security promptly.
+
+Technology Issues
+
+Technology problems affecting critical work should be reported through the IT service desk and escalated according to the IT process when necessary.
+
+Routine Workplace Issues
+
+Furniture requests, cleaning requests, supply requests, minor room problems, and non-urgent facilities defects should use the standard workplace service process.
+
+INFORMATION TO INCLUDE IN REQUESTS
+
+Employees should include the building, floor, room number, desk identifier, or another useful location reference.
+
+The request should describe what happened, what was expected, and any visible error or condition.
+
+Where relevant, employees should state when the issue began and whether it is continuous or intermittent.
+
+Employees should explain whether one person, a team, a meeting, or a larger area is affected.
+
+Photographs or screenshots may be included where permitted, provided they do not unnecessarily expose confidential information.
+
+COMMON OFFICE SCENARIOS
+
+Someone is waiting at a controlled door:
+Do not allow an unknown person to enter by following you through the door. Direct the person to reception or the approved visitor process.
+
+A confidential document is left at a printer:
+Do not read or distribute the contents. Notify the owner or responsible team according to local procedure.
+
+A laptop is left unattended:
+Do not attempt to access the device. Notify the owner, IT, Security, or reception as appropriate.
+
+A spill is blocking a corridor:
+Avoid the affected area, warn others when safe, and contact Workplace Operations or Facilities.
+
+A fire exit is blocked:
+Do not use the area for storage. Report the obstruction immediately to Workplace Operations, Facilities, or Security.
+
+A visitor needs access to a restricted room:
+The host should confirm authorization and arrange access through the approved visitor or Security process.
+
+A meeting-room display stops working:
+Record the room number and affected equipment and submit an IT request.
+
+FREQUENTLY ASKED QUESTIONS
+
+Can I lend my access card to a colleague?
+No. Access credentials are assigned to individual employees and must not be shared.
+
+Can I leave personal items on a shared desk?
+Shared desks should remain available to other employees. Personal items should be removed when leaving unless designated storage is provided.
+
+Can I move a monitor from another desk?
+Do not move shared or assigned equipment without authorization. Request assistance when equipment needs to be relocated.
+
+What should I do if I lose my access card?
+Report the loss immediately to Workplace Operations or Security.
+
+What should I do if I see suspicious activity?
+Do not confront the person if doing so could create a safety risk. Report the location and factual observations to Security.
+
+Where should confidential papers go?
+Use the designated confidential-waste process rather than ordinary recycling or general waste.
+
+Who handles a broken chair or desk?
+Submit a Workplace Operations or Facilities request with the location and description of the issue.
+
+Who handles a laptop or VPN problem?
+Contact the IT service desk and provide the relevant device or service information.
+
+Who should I contact for a workplace accommodation?
+Use the approved confidential HR or Workplace Operations process.
+
+QUICK REFERENCE
+
+Lost access card: Contact Workplace Operations or Security immediately.
+
+IT or device problem: Open an IT service request.
+
+VPN or network problem: Contact the IT service desk.
+
+Meeting-room equipment problem: Contact IT and include the room number.
+
+Broken furniture or facility issue: Open a Workplace Operations request.
+
+Safety emergency: Follow building emergency procedures and contact local emergency services where appropriate.
+
+Suspicious activity: Contact Security and do not confront the individual if unsafe.
+
+Confidential document disposal: Use the designated confidential-waste process.
+
+Visitor access: Register the visitor and remain responsible for the visitor while they are in controlled areas.
+
+Blocked emergency route: Report it immediately to Workplace Operations, Facilities, or Security.
+
+FINAL OPERATING PRINCIPLES
+
+Safety comes first when responding to workplace incidents.
+
+Employees should use approved company and building processes for routine requests.
+
+Confidential business, employee, customer, and technical information should be protected from unauthorized access.
+
+Shared rooms, desks, equipment, kitchens, and facilities should be used responsibly and left ready for the next person.
+
+Employees should report hazards, faults, access problems, and security concerns rather than attempting unauthorized repairs, bypasses, or workarounds.
+
+Building-specific emergency, access, and safety requirements may supplement this guide. Employees should follow applicable local instructions and seek clarification when necessary.
+
+DOCUMENT CONTROL
+
+Workplace Operations owns this guide and coordinates updates to standard office procedures.
+
+The guide should be reviewed periodically to ensure that procedures remain aligned with current workplace arrangements.
+
+Individual offices may publish supplementary instructions for building-specific procedures, contacts, access arrangements, and emergency information.
+
+Employees should use the current approved version of this guide and should not rely on obsolete copies when a newer version has been issued.
+
+END OF OFFICE OPERATIONS GUIDE

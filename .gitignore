@@ -1,0 +1,18 @@
+# Environment — NEVER commit real API keys
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB vector store (large, regeneratable — run ingestion.py to rebuild)
+db/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
